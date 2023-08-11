@@ -1,2 +1,2 @@
 # TravelSecret
-Project for Travel sites
+Simple landing page for Travel agency.
